@@ -55,4 +55,4 @@ func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> U
 }
 </pre> 
 
-Have ideas to improve this? Please let me know in the comments section.
+Have ideas to improve this? Please let me know by [creating an issue](https://github.com/sanketfirodiya/TableViewEnums/issues/new)
